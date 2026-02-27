@@ -1,8 +1,12 @@
 # NetSentinel
+
 Offline ping dashboard per monitorare switch e dispositivi LAN con stato 🟢/🔴 in tempo reale.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/github/license/viperhack89/NetSentinel)
+
+![NetSentinel Banner](NetSentinel.png)
+
 
 NetSentinel è una piccola app desktop **offline** pensata per monitorare dispositivi di rete (switch/router/server) in LAN tramite **ping (ICMP)**.  
 Inserisci gli IP, premi **GO**, e ottieni una vista “da NOC” con stato **🟢 online / 🔴 offline** e orario dell’ultimo controllo.
