@@ -31,3 +31,13 @@ Apri **PowerShell** nella cartella del progetto:
 ```powershell
 py --version
 py monitor_switches.py
+
+Come si usa
+
+1.Inserisci un IP nel campo IP switch
+
+2.Premi Aggiungi (ripeti per tutti gli IP)
+
+3.Premi GO per iniziare il controllo continuo
+
+4.Premi STOP per fermare il monitoraggio (puoi modificare la lista e ripartire)
